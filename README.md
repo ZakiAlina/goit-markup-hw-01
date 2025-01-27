@@ -1,6 +1,7 @@
 # goit-markup-hw-01
 
 my 1st homework
+
 Проект
 ✅«A1» Главный HTML-файл называется index.html.
 ✅«A2» В корне проекта есть папка images с изображениями.
